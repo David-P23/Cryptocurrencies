@@ -2,10 +2,11 @@
 
 ## Overview
 In this analysis I use unsupervised machine learning to analyze data directly  
-from CryptoCompare. To form potential new investment products I group the different  
-cryptos and analyze the different clustering results. PCA and K-Means clustering  
-were used to prepare the data. Clusters were predicted by K-means algorithms after  
-the less less meaningful dimensions were removed by component analysis. 
+from CryptoCompare, one of the largest providers of cryptocurrency market data.  
+To form potential new investment products I group the different cryptos and  
+analyze the different clustering results. PCA and K-Means clustering were used  
+to prepare the data. Clusters were predicted by K-means algorithms after the  
+less less meaningful dimensions were removed by component analysis. 
   
 This is visualized by the output below.
 
