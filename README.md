@@ -38,7 +38,7 @@ Indicates less than 3 dimensions does not allow meaningful analysis of the data.
 
 ## Summary  
 Using the above methods it was determined the data should be grouped in to four  
-classes. These classes were visualized usind diffreent methods for further  
+classes. These classes were visualized using different methods for further  
 explotarion. This info definitely gives the financial products company direction  
 despite them having no expertise in cryptocurrency as they integrate crypto in  
 to their financial products.  
